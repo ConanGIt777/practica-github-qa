@@ -3,7 +3,7 @@ Práctica de QA - configuración de GitHub y plantilla de issues
 # Práctica: Configuración de GitHub y Plantilla de Issues
 
 ## Autor
-TU NOMBRE
+Caleb Molina - Ingeniería Informática
 
 ## Propósito de la práctica
 
