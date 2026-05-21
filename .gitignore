@@ -1,0 +1,15 @@
+# Archivos temporales
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
