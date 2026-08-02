@@ -1,6 +1,8 @@
 # Casos de Prueba – Historia 7: Reportes PDF Mensuales
 
-**Historia de usuario:** (Sin descripción detallada en el tablero — reporte mensual descargable en PDF con resumen de actividad del huerto.)
+**Historia de usuario:** HU-07: Reportes PDF Mensuales
+
+Como supervisor, quiero generar y descargar un reporte mensual en PDF con el resumen de cosechas y riegos de los huertos, para llevar un control histórico de la productividad y compartir la información con otros interesados.
 
 **Criterios de aceptación:**
 - El PDF debe incluir el logotipo del proyecto en el encabezado.
